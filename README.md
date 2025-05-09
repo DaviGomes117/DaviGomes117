@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 
 - 🌱 atualmente estou estudando ciencia da computação no CEUB
